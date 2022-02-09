@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|PT+Sans+Narrow|Quicksand|Sniglet&display=swap');
+body{
+    background-color:rgb(9, 14, 65);
+    color: white;
+}
+
+.green-darken-1{
+    color:#0baf13;
+}
+
+.yellow-darken-1{
+    color:#f9a825;
+}
+
+h1,h3{
+    font-family: 'Sniglet';
+}
+
+p{
+    font-family: 'Open Sans';
+}
+
+li{
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+a{
+    color:rgb(31, 230, 230);
+    font-weight: bolder;
+    font-family: 'Quicksand',sans-serif;
+    font-size: large;
+    text-decoration: underline;
+}
